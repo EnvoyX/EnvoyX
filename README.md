@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhamad Hanif Hafizhan</h1>
 <h3 align="center">A simple wannabe devoloper from Indonesia.</h3>
 
-- 🌱 I’m currently learning **Web Development, mostly in Front-end.** 
-- 👀 Interested in **exploring new technologies, trying to tackle programming world, pursuing software engineering career and learn fullstack develeopment.**
+- 🌱 I’m currently learning **Fullstack Web Development, currently focusing in Front-End.** 
+- 👀 Interested in **exploring new technologies, trying to tackle programming world, pursuing software engineering career.**
 - ✍️ Pursuing **photography and Game Dev as hobbies.**
 - 📫 How to reach me **muhamadhanifhafizhan@gmail.com**
 - 😄 Pronouns: En/Voy
