@@ -15,29 +15,21 @@
 #### Languages, Tools, Library, Framework I'm Currently Learning:
 
 - ### Front-End:
- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
- ![Boostrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
- ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,bootstrap&perline=15)](https://skillicons.dev)
  
 - ### Back-End:
- ![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+  [![My Skills](https://skillicons.dev/icons?i=nextjs&perline=15)](https://skillicons.dev)
  
 
 - ### Programming Languages:
- ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python)
- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+  [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,cs&perline=15)](https://skillicons.dev)
  
 
 - ### Game Developing:
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=GodotEngine&logoColor=white)
+  [![My Skills](https://skillicons.dev/icons?i=unity,godot&perline=15)](https://skillicons.dev)
+
+- ### Tools
+  [![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,vite&perline=15)](https://skillicons.dev)
 
 <br>
 
