@@ -12,7 +12,7 @@
 
 - # 💻 Tech Stack
 
-#### Languages, Tools, Library, Framework I'm Currently Learning:
+#### Languages, Tools, Library, Framework I'm Currently Use:
 
 - ### Front-End:
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,bootstrap&perline=15)](https://skillicons.dev)
