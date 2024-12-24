@@ -28,6 +28,9 @@
 - ### Game Developing:
   [![My Skills](https://skillicons.dev/icons?i=unity,godot&perline=15)](https://skillicons.dev)
 
+- ### Data Analysis:
+  ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+
 - ### Tools
   [![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,vite&perline=15)](https://skillicons.dev)
 
