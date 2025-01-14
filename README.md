@@ -14,10 +14,8 @@
 
 #### Languages, Tools, Library, Framework I'm Currently Use:
 
-- ### Front-End:
+- ### Web Development:
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,bootstrap&perline=15)](https://skillicons.dev)
- 
-- ### Back-End:
   [![My Skills](https://skillicons.dev/icons?i=nextjs&perline=15)](https://skillicons.dev)
  
 
