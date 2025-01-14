@@ -40,17 +40,23 @@
 
 <br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Astha47&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 My Github Stats
+[![Jason's Activity on Github](https://github-readme-activity-graph.vercel.app/graph?username=jasonrivalino&theme=dracula)](https://github.com/jasonrivalino/github-readme-activity-graph)
+<p align="center">
+    <a href="https://github.com/jasonrivalino/jasonrivalino">
+        <img src="https://github-profile-trophy.vercel.app/?username=jasonrivalino&column=-1&theme=dracula" />
+    </a>
+    <a href="https://github.com/jasonrivalino/jasonrivalino">
+        <img src="https://github-readme-stats.vercel.app/api?username=jasonrivalino&show_icons=true&count_private=true&theme=dracula" />
+    </a>
+    <a href="https://github.com/jasonrivalino/jasonrivalino">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasonrivalino&show_icons=true&count_private=true&include_all_commits=true&layout=compact&langs_count=8&theme=dracula" />
+    </a>
+    <a href="https://github.com/jasonrivalino/jasonrivalino">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=jasonrivalino&theme=dracula&hide_border=false" alt="GitHub Stats streak">
+    </a>
+</p>
 
-<br>
-
-# 🚀 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EnvoyX&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=EnvoyX&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EnvoyX&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<br>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
