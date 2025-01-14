@@ -30,7 +30,7 @@
   [![My Skills](https://skillicons.dev/icons?i=git,github&perline=15)](https://skillicons.dev)
   
 - ### Tools
-  [![My Skills](https://skillicons.dev/icons?i=git,github,postman,vscode,vite&perline=15)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=postman,vscode,vite&perline=15)](https://skillicons.dev)
 
 <br>
 
