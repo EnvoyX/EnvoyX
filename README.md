@@ -41,7 +41,7 @@
 <br>
 
 ## 🏆 My Github Stats
-[![Jason's Activity on Github](https://github-readme-activity-graph.vercel.app/graph?username=EnvoyX&theme=dracula)](https://github.com/EnvoyX/github-readme-activity-graph)
+[![EnvoyX's Activity on Github](https://github-readme-activity-graph.vercel.app/graph?username=EnvoyX&theme=dracula)](https://github.com/EnvoyX/github-readme-activity-graph)
 <p align="center">
     <a href="https://github.com/EnvoyX/EnvoyX/">
         <img src="https://github-profile-trophy.vercel.app/?username=EnvoyX&column=-1&theme=dracula" />
