@@ -52,8 +52,11 @@
     <a href="https://github.com/EnvoyX/EnvoyX/">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnvoyX&show_icons=true&count_private=true&include_all_commits=true&layout=compact&langs_count=8&theme=dracula" />
     </a>
+     <a href="https://github.com/EnvoyX/github-readme-streak-stats">
+    <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=EnvoyX&theme=dracula" alt="GitHub Streak" />
+  </a>
     <a href="https://github.com/EnvoyX/EnvoyX/">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=EnvoyX&theme=dracula&hide_border=false" alt="GitHub Stats streak">
+         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EnvoyX&theme=transparent" alt="GitHub Contribution"/>
     </a>
 </p>
 
