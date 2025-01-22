@@ -18,7 +18,7 @@
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,bootstrap&perline=15)](https://skillicons.dev)
 
 - ### Programming Languages:
-  [![My Skills](https://skillicons.dev/icons?i=python,c,cpp&perline=15)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,cpp&perline=15)](https://skillicons.dev)
 
 - ### Game Developing:
   [![My Skills](https://skillicons.dev/icons?i=unity,godot&perline=15)](https://skillicons.dev)
