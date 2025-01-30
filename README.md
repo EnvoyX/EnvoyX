@@ -47,10 +47,10 @@
         <img src="https://github-profile-trophy.vercel.app/?username=EnvoyX&column=-1&theme=dracula" />
     </a>
     <a href="https://github.com/EnvoyX/EnvoyX/">
-        <img src="https://github-readme-stats.vercel.app/api?username=EnvoyX&show_icons=true&count_private=true&theme=dracula" />
+        <img src="https://github-readme-stats.vercel.app/api?username=EnvoyX&show_icons=true&count_private=false&theme=dracula" />
     </a>
     <a href="https://github.com/EnvoyX/EnvoyX/">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnvoyX&show_icons=true&count_private=true&include_all_commits=true&layout=compact&langs_count=8&theme=dracula" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnvoyX&show_icons=true&count_private=false&include_all_commits=true&layout=compact&langs_count=8&theme=dracula" />
     </a>
      <a href="https://github.com/EnvoyX/github-readme-streak-stats">
     <img width="400" src="https://github-readme-streak-stats-eight.vercel.app/?user=EnvoyX&theme=dracula" alt="GitHub Streak" />
