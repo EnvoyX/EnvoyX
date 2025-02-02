@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Fullstack Web Development, currently focusing in Front-End.** 
 - 👀 Interested in **exploring new technologies, trying to tackle programming world, pursuing software engineering career.**
-- ✍️ Pursuing **photography and Game Dev as hobbies.**
+- ✍️ Focusing **photography and game dev as hobbies.**
 - 📫 How to reach me **muhamadhanifhafizhan@gmail.com**
 - 😄 Pronouns: En/Voy
 - ⚡ Fun fact: Love playing & tinkering computers since young.
