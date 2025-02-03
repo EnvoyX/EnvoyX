@@ -34,8 +34,6 @@
 
 <br>
 
-<br>
-
 ## 🏆 My Github Stats
 [![EnvoyX's Activity on Github](https://github-readme-activity-graph.vercel.app/graph?username=EnvoyX&theme=dracula)](https://github.com/EnvoyX/github-readme-activity-graph)
 <p align="center">
