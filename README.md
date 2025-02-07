@@ -12,7 +12,7 @@
 
 - # 💻 Tech Stack
 
-#### Languages, Tools, Library, Framework I'm Currently Use:
+#### Languages, Tools, Library, Framework I'm currently use:
 
 - ### Web Development:
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,svelte,nextjs,tailwind,bootstrap&perline=15)](https://skillicons.dev)
