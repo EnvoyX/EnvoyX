@@ -15,7 +15,7 @@
 #### Languages, Tools, Library, Framework I'm currently use:
 
 - ### Web Development:
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,prisma,tailwind,fastapi,flask&perline=15)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,prisma,fastapi,flask,postgresql&perline=15)](https://skillicons.dev)
 
 - ### Programming Languages:
   [![My Skills](https://skillicons.dev/icons?i=python,cpp&perline=15)](https://skillicons.dev)
