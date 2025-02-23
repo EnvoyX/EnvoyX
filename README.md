@@ -18,7 +18,7 @@
   [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,prisma,fastapi,flask,postgresql&perline=15)](https://skillicons.dev)
 
 - ### Programming Languages:
-  [![My Skills](https://skillicons.dev/icons?i=python,cpp&perline=15)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=python,cpp,matlab&perline=15)](https://skillicons.dev)
 
 - ### Game Developing:
   [![My Skills](https://skillicons.dev/icons?i=unity,godot&perline=15)](https://skillicons.dev)
@@ -30,7 +30,7 @@
   [![My Skills](https://skillicons.dev/icons?i=git,github&perline=15)](https://skillicons.dev)
   
 - ### Tools
-  [![My Skills](https://skillicons.dev/icons?i=postman,vscode,vite&perline=15)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=postman,vscode,vite,bun&perline=15)](https://skillicons.dev)
 
 <br>
 
