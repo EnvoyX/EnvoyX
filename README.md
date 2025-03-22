@@ -6,7 +6,7 @@
 - ✍️ Focusing **photography and reading book as hobbies.**
 - 📫 How to reach me **muhamadhanifhafizhan@gmail.com**
 - 😄 Pronouns: En/Voy
-- ⚡ Fun fact: Love playing & tinkering computers since young.
+- ⚡ Fun fact: Love playing & tinkering computers since in my youth.
 
  <br>
 
