@@ -5,7 +5,7 @@
 - 👀 Interested in **trying to tackle programming world.**
 - ✍️ Focusing **photography and reading book as hobbies.**
 - 📫 How to reach me **muhamadhanifhafizhan@gmail.com**
-- 😄 Pronouns: En/Voy
+- 😄 Pronouns: No/ob.
 - ⚡ Fun fact: I'm suck at programming.
 
  <br>
