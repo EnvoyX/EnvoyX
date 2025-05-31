@@ -4,7 +4,6 @@
 - 🌱 Currently learning **Web Development**.
 - 👀 Interested in **Game Development**.
 - ✍️ Focusing **photography and reading book as hobbies.**
-- 📫 How to reach me **muhamadhanifhafizhan@gmail.com**
 - 😄 Pronouns: No/ob.
 - ⚡ Fun fact: I'm suck at programming.
 
