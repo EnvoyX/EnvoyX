@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhamad Hanif Hafizhan</h1>
 <h3 align="center">A simple wannabe devoloper from Indonesia.</h3>
 
-- 🌱 I’m currently learning **Web Development** & **Game Development**.
-- 👀 Interested in **trying to tackle programming world.**
+- 🌱 I’m currently learning **Web Development**.
+- 👀 Interested in **Game Development**.
 - ✍️ Focusing **photography and reading book as hobbies.**
 - 📫 How to reach me **muhamadhanifhafizhan@gmail.com**
 - 😄 Pronouns: No/ob.
