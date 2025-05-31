@@ -1,5 +1,7 @@
+<!---
 <h1 align="center">Hi 👋, I'm Muhamad Hanif Hafizhan</h1>
 <h3 align="center">A simple wannabe devoloper from Indonesia.</h3>
+--->
 
 - 🌱 Currently learning **Web Development**.
 - 👀 Interested in **Game Development**.
