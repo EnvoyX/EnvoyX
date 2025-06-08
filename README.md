@@ -1,5 +1,9 @@
 <h1 align="center">Hello there, I'm Muhamad Hanif Hafizhan</h1>
 
+<div align="center">
+ 
+ ![me](https://github.com/EnvoyX/EnvoyX/blob/main/hello-there.gif)
+</div>
 
 - 🌱 Currently learning **Web Development**.
 - 👀 Interested in **Game Development**.
