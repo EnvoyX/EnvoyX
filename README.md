@@ -6,12 +6,21 @@
  
 </div>
 
+<h3>Welcome to my simple GitHub Profile!</h3>
+
+I am currently studying Mechanical Engineering in Institut Teknologi Bandung, but also interested in programming.
 
 - 🌱 Currently learning **Web Development**.
 - 👀 Interested in **Game Development**.
 - 😄 Pronouns: No/ob.
 - ⚡ Fun fact: I'm suck at programming.
 
+<h3 align="left">Languages and tools i'm use:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,matlab,python" />
+  </a>
+</p>
 
  <br>
 
