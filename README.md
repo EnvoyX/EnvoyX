@@ -15,7 +15,7 @@
 
  <br>
 
-## 🎶 Recently played song
+## 🎶 Recently played music
  
  <div align="center">
   
