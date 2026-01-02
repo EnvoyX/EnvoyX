@@ -8,7 +8,7 @@
 
 <h3>Welcome to my simple GitHub Profile!</h3>
 
-I am currently studying Mechanical Engineering in Institut Teknologi Bandung, but also interested in programming as self-taught developer.
+I am currently studying Mechanical Engineering in Institut Teknologi Bandung, but also interested in programming.
 
 - 🌱 Currently learning **Web Development**.
 - 👀 Interested in **Game Development**.
