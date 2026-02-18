@@ -18,7 +18,7 @@ I am currently studying Mechanical Engineering in Institut Teknologi Bandung, bu
 <h3 align="left">Languages and tools i'm use:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,nextjs,react,tailwind,javascript,typescript,prisma,matlab,python,r" />
+    <img src="https://skillicons.dev/icons?i=linux,git,nextjs,react,tailwind,javascript,typescript,prisma,matlab,python,r" />
   </a>
 </p>
 
